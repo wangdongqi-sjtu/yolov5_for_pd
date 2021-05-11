@@ -1,7 +1,7 @@
 # YOLO v5 for PD Project
 This is a YOLO v5 Detector used for PD Project. 
 
-Instead of cloing the [original repo](https://github.com/ultralytics/yolov5), the model in this repo is loaded by using `torch.hub` module. Please ensure you can connect to Internet before the first use.
+Instead of cloing the [original repo](https://github.com/ultralytics/yolov5), the model in this repo is loaded by `torch.hub` module. Please ensure you can connect to Internet before the first use.
 
 ## Clone Repo
 ```shell
